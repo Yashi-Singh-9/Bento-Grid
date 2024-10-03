@@ -1,5 +1,10 @@
 # Frontend Mentor - Bento Grid Solution
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4263271b-9608-4310-be47-75f02872f165/deploy-status)](https://app.netlify.com/sites/bento-grid-solution-by-yashi-singh/deploys) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-fb0?style=for-the-badge&logo=frontendmentor&logoColor=white)
+![Last Commit](https://img.shields.io/gitlab/last-commit/Yashi-Singh-9/bento-grid?style=for-the-badge&logo=gitlab&logoColor=white)
+
 This is a solution to the [Bento Grid challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/bento-grid-RMydElrlOj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of Contents
@@ -36,7 +41,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/bento-grid-kswn_xvFGG))
 - Live Site URL: [Live](https://bento-grid-solution-by-yashi-singh.netlify.app/)
 
 ## My Process
