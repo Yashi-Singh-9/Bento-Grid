@@ -41,7 +41,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/bento-grid-kswn_xvFGG))
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/bento-grid-kswn_xvFGG)
 - Live Site URL: [Live](https://bento-grid-solution-by-yashi-singh.netlify.app/)
 
 ## My Process
